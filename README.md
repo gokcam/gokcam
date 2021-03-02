@@ -1,5 +1,7 @@
 
 Here are some ideas to get you started:
+<img src="gorsel-link" width="auto">
+
 
 - I’m currently working on Android Studio  [![Medium Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&link=link)](link) 
 
