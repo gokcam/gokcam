@@ -1,7 +1,7 @@
 Hello I'm Gökhan Çam 
 
 About me:
-- I’m currently working on Android Studio  
+- I’m currently working on Android
 - I'm studying Electrical and electronics engineering at Akdeniz University
 - Ask me about Kotlin,Android 
 
