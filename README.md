@@ -1,5 +1,5 @@
-<img src="https://github.com/gokcam/gokcam/blob/main/akdeniz-universitesi-logo-B017290F9B-
-- I'm studying Electrical and electronics engineering at Akdeniz University <img src="https://github.com/gokcam/gokcam/blob/main/akdeniz-universitesi-logo-B017290F9B-seeklogo.com.png" width="100" height="100">
+<img src="https://github.com/gokcam/gokcam/blob/main/akdeniz-universitesi-logo-B017290F9B-seeklogo.com.png" width="100" height="100">
+- I'm studying Electrical and electronics engineering at Akdeniz University 
 - I’m currently working on Android Studio  [![Medium Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&link=link)](link) 
 
 
