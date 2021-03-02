@@ -1,4 +1,6 @@
-<img src="https://github.com/gokcam/gokcam/blob/main/akdeniz-universitesi-logo-B017290F9B-seeklogo.com.png" width="100" height="100">
+Hello I'm Gökhan Çam 
+
+<img src="https://github.com/gokcam/gokcam/blob/main/akdeniz-universitesi-logo-B017290F9B-seeklogo.com.png" width="30" height="30">
 - I'm studying Electrical and electronics engineering at Akdeniz University
 - I’m currently working on Android Studio  
 
